@@ -13,6 +13,8 @@ Sentry.init({
     Sentry.feedbackIntegration({
       // Additional SDK configuration goes in here, for example:
       colorScheme: "system",
+      customClassName: "position-fixed bottom-20 left-0",
+
     }),
   ],
 
