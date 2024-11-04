@@ -2,7 +2,7 @@
 
 [![Vercel](https://vercel.com/button)](https://yc-directory-k.vercel.app)
 
-**YCDirectory** is a directory application built with **Next.js**, using **Sanity** as the CMS, **NextAuth.js** for authentication, and **Tailwind CSS** for styling and **Sentry** for error tracking.. This tool allows users to explore, register, and manage directory data, offering a fast and modern experience powered by advanced frontend and backend technologies.
+**YCDirectory** is a directory application built with **Next.js**, using **Sanity** as the CMS, **NextAuth.js** for authentication, and **Tailwind CSS** for styling and **Sentry** for error tracking. This tool allows users to explore, register, and manage directory data, offering a fast and modern experience powered by advanced frontend and backend technologies.
 
 ## Demo
 
